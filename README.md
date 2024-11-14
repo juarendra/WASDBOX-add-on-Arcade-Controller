@@ -1,5 +1,12 @@
 # WASDBOX-add-on-Arcade-Controller
 
+## Pinout Cabel Extension
+- Black = Ground
+- Orange = Left
+- Yellow = Right
+- Green = Down
+- Brown = UP
+
 ## Preview Product WASDBOX
 <p align="center">
     <img src="DOC/wasdbox2.jpeg" width="50%" height="50%">
