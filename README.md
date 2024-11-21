@@ -28,3 +28,10 @@
     <img src="DOC/wasdbox_mx2.png" width="50%" height="50%">
     <img src="DOC/wasdbox_mx3.png" width="50%" height="50%">
 </p>
+
+## Preview Design WASDBOX MX with THUMB
+<p align="center">
+    <img src="DOC/WASDBOX with thumb.png" width="50%" height="50%">
+    <img src="DOC/WASDBOX with thumb2.png" width="50%" height="50%">
+    <img src="DOC/WASDBOX with thumb3.png" width="50%" height="50%">
+</p>
