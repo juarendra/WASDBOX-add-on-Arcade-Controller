@@ -36,6 +36,11 @@
     <img src="DOC/wasdbox_mx3.png" width="50%" height="50%">
 </p>
 
+## Preview Product WASDBOX MX with THUMB
+<p align="center">
+    <img src="DOC/WASDBOX with thumb.jpeg" width="50%" height="50%">
+</p>
+
 ## Preview Design WASDBOX MX with THUMB
 <p align="center">
     <img src="DOC/WASDBOX with thumb.png" width="50%" height="50%">
